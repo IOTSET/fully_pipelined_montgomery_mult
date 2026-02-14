@@ -1,6 +1,7 @@
 MIT License
 
-Copyright (c) 2026 Wang jie,Gao lei, Fu yong, Wang meiqin
+Copyright (c) 2026 Wang jie,Gao lei, Fu yong, Wang meiqin.
+email:yongfu0976@163.com
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
